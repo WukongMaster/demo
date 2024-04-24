@@ -1,0 +1,3 @@
+# 自定义规则-白名单
+DOMAIN-SUFFIX,time.nist.gov
+DOMAIN-SUFFIX,time.windows.com

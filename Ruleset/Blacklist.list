@@ -1,0 +1,3 @@
+# 自定义规则-黑名单
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,msftconnecttest.com
