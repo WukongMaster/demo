@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
 IP-CIDR,64.233.177.188/32,no-resolve
 IP-CIDR,64.233.186.188/32,no-resolve
 IP-CIDR,64.233.187.188/32,no-resolve
